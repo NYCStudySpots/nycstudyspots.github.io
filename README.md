@@ -1,2 +1,2 @@
 # newyorkstudyspots
-New York study spots
+New York City study spots

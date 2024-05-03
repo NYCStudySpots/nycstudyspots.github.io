@@ -1,7 +1,3 @@
----
-title-heading: false
----
-
 # nycstudyspots
 New York City study spots
 

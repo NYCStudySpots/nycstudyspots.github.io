@@ -1,6 +1,10 @@
 # nycstudyspots
 New York City study spots
 
+by Sourabh Chakraborty
+
+Last updated: May 2024
+
 # Criteria
 * In New York City
 * Indoors

@@ -53,7 +53,7 @@ Once I figure out how to embed Google Maps links and/or photos, this site will b
     * Has outlets
     * Closes at 8 pm on weekdays (although the sign on the door says 10)
 * The Greats of Craft
-    * Sort of a bar but they have this room that people seem to ready/work at even in the evenings
+    * Sort of a bar but they have this room that people seem to read/work at even in the evenings
    
 ### Libraries
 Pretty much any library is a good study spot, but most are closed in the evenings.
